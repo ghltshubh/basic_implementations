@@ -1,4 +1,4 @@
-#\ basic_implementations
+# basic_implementations
 Basic function implementations:
 1. Squared Number
 2. Count Vowels
